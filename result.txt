@@ -1,0 +1,18 @@
+	1: reserved word: read
+	1: ID, name= x
+	1: ;
+	2: reserved word: read
+	2: ID, name= y
+	2: ;
+	3: reserved word: if
+	3: ID, name= x
+	3: Unknown token: 22
+	3: ID, name= y
+	3: reserved word: then
+	4: reserved word: write
+	4: ID, name= x
+	5: reserved word: else
+	6: reserved word: write
+	6: ID, name= y
+	7: reserved word: end
+	7: EOF

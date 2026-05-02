@@ -1,0 +1,7 @@
+read x;
+read y;
+if x <= y then
+     write x
+else
+     write y
+end	
